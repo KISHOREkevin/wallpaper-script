@@ -23,5 +23,18 @@ You can set random wallpapers and set yuour favourite wallpaper.
   [Refer my wallpapers in my dotfiles](https://github.com/KISHOREkevin/.dotfiles)
 - Type `wallpaper` in the terminal
 
+# Usage
+```
+wallpaper [args]
+
+arguments :
+random - Setting an random wallpaper
+set -  Set a preferred wallpaper
+menu - Select from popped menu which is made from rofi
+
+```
+for example:
+`wallpaper random`
+
 ## Note : You can edit it as your favourite like changing rofi to dmenu and sxiv to feh.....
 
